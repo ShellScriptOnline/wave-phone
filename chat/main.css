@@ -1,0 +1,49 @@
+body {
+ background: #c7b39b url(back.png);
+ }
+
+
+#name2 {
+	font-size: 55pt;
+width:50%;
+height:70px;
+}
+
+
+#name {
+color:#ffffff;
+font-size: 70pt;
+}
+
+#soo {
+color:#ffffff;
+font-size: 70pt;
+}
+
+
+
+#sendd {
+	transition: 0.5s;
+position: relative;
+top:200px;
+font-size: 100pt;
+background:#1597d4;
+}
+
+#sendd:hover {
+	transition: 0.5s;
+	transform: scale(1.03);
+background:#cc1055;
+}
+
+#text {
+	font-size: 55pt;
+	transform: scale(1.03);
+width:50%;
+height:70px;
+}
+
+#web_chat {
+font-size: 30pt;
+
+}

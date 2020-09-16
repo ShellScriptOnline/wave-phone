@@ -1,0 +1,192 @@
+.script1 {
+height: 533px;
+width: 400px;
+
+position: relative;
+left: 1%;
+top: 10px;
+
+    transition: 0.5s;
+	filter: blur(2px);
+ }
+ 
+ .script1:hover {
+    filter: blur(0px);
+    transform: scale(1.03);
+ }
+ 
+ 
+ 
+ 
+ .script2 {
+position: relative;
+left: 17%;
+top: 10px;
+height: 533px;
+width: 400px;
+
+    transition: 0.5s;
+	filter: blur(2px);
+ }
+ 
+ .script2:hover {
+    filter: blur(0px);
+    transform: scale(1.03);
+ }
+ 
+ 
+ 
+ 
+ .script3 {
+left: 33%;
+top: 10px;
+	 
+position: relative;
+height: 533px;
+width: 400px;
+
+    transition: 0.5s;
+	filter: blur(2px);
+ }
+ 
+ .script3:hover {
+    filter: blur(0px);
+    transform: scale(1.03);
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ body {
+ background: #c7b39b url(back.png);
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .pod-css1 {
+height: 66px;
+width: 400px;
+	 
+position: relative;
+left: -65%;
+top: 100px;
+
+transition: 0.5s;
+ }
+ 
+ .pod-css1:hover {
+transform: scale(1.03);
+ }
+ 
+ 
+  .pod-css2 {
+left: 39%;
+top: 30px;
+	  
+height: 66px;
+width: 400px;
+	  
+position: relative;
+
+
+transition: 0.5s;
+ }
+ 
+ .pod-css2:hover {
+transform: scale(1.03);
+ }
+ 
+ 
+   .pod-css3 {
+	   
+height: 66px;
+width: 400px;	   
+	
+position: relative;	
+left: 55%;
+top: 30px;
+
+transition: 0.5s;
+ }
+ 
+ .pod-css3:hover {
+transform: scale(1.03);
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .wpi {	 
+
+position: relative;
+top:550px;
+height:400px;
+
+    transition: 0.5s;
+
+ }
+
+  .wpi:hover {
+	  transform: scale(1.03);
+
+  }
+ 
+ 
+ 
+ 
+ .twp {
+position: relative;
+color: #ff0000;
+font-size: 200pt;
+font-family:Agency FB;
+top:460px;
+ }
+ 
+ 
+ 
+
+
+
+ .dl1 {
+height: 100px;
+width: 600px;
+	 
+position: relative;
+top:400px;
+
+transition: 0.5s;
+ }
+ 
+ .dl1:hover {
+transform: scale(1.03);
+ }
+
+
+
+
+ .dl2 {
+height: 100px;
+width: 600px;
+	 
+position: relative;
+top:400px;
+
+transition: 0.5s;
+ }
+ 
+ .dl2:hover {
+transform: scale(1.03);
+ }
+ 
+ 
+ 
